@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Leaf Disease Prediction and Cure – A project that uses machine learning and image processing to detect plant diseases and suggest possible treatments.**
 
-- 👯 I’m looking to collaborate on **Projects related to machine learning, computer vision, or full-stack web development.**
+- 👯 I’m looking to collaborate on **Projects related to machine learning, computer vision.**
 
 - 🤝 I’m looking for help with **Improving model accuracy, dataset enhancement, and integrating cure suggestions into the app.**
 
